@@ -1,3 +1,9 @@
+turnkey-core-15.0-beta1 (1) turnkey; urgency=low
+
+  * Running on Debian Stretch 9.1.
+
+ -- Jeremy Davis <jeremy@turnkeylinux.org>  Sat, 12 Aug 2017 17:51:59 +1000
+
 turnkey-core-14.2 (1) turnkey; urgency=low
 
   * Upgraded base distribution to Debian Jessie 8.7.
